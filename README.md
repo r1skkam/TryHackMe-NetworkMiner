@@ -80,3 +80,11 @@ There are three main data types investigated in Network Forensics
 [GavinHollinger.com - Gavin's Tech Blog: PCAP over IP to NetworkMiner](http://www.gavinhollinger.com/2016/10/pcap-over-ip-to-networkminer.html)
 
 ## Task 5 Tool Overview 2
+## Task 6 Version Differences
+## Task 7 Exercises
+## Task 8 Conclusion
+[TryHackMe | Wireshark 101](https://tryhackme.com/room/wireshark)
+
+[TryHackMe | Snort](https://tryhackme.com/room/snort)
+
+[TryHackMe | Brim](https://tryhackme.com/room/brim)
