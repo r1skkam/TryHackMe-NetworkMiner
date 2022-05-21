@@ -67,3 +67,16 @@ There are three main data types investigated in Network Forensics
 
 [TryHackMe | Wireshark 101](https://tryhackme.com/room/wireshark)
 
+## Task 3 What is NetworkMiner?
+[xnih/satori: Python rewrite of passive OS fingerprinting tool](https://github.com/xnih/satori/)
+
+[p0f v3](https://lcamtuf.coredump.cx/p0f3/)
+
+[NetworkMiner - The NSM and Network Forensics Analysis Tool ⛏](https://www.netresec.com/?page=NetworkMiner)
+
+## Task 4 Tool Overview 1
+[Pcap-over-IP in NetworkMiner](https://www.netresec.com/?page=Blog&month=2011-09&post=Pcap-over-IP-in-NetworkMiner)
+
+[GavinHollinger.com - Gavin's Tech Blog: PCAP over IP to NetworkMiner](http://www.gavinhollinger.com/2016/10/pcap-over-ip-to-networkminer.html)
+
+## Task 5 Tool Overview 2
